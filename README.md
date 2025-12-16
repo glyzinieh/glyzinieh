@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![GitHub Profile Detail](https://github-readme-stats-flax-iota.vercel.app/api?username=glyzinieh&count_private=true&show_icons=true)
 
-![GitHub Langs](https://github-readme-stats-flax-iota.vercel.app/api/top-langs/?username=glyzinieh&layout=compact)
+![GitHub Langs](https://github-readme-stats-flax-iota.vercel.app/api/top-langs/?username=glyzinieh&layout=compact&hide=Jupyter%20Notebook)
