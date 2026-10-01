@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=glyzinieh&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=glyzinieh&show_icons=true&include_all_commits=true&theme=dark_github)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=glyzinieh&layout=compact&langs_count=8&theme=dark_github&hide=Jupyter%20Notebook)](https://github-stats-extended.vercel.app/api/top-langs?username=glyzinieh&layout=compact&langs_count=8&theme=dark_github&hide=Jupyter%20Notebook)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=glyzinieh&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=glyzinieh&layout=compact&langs_count=8&theme=dark_github)
