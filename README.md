@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ## ⚒️Status
 
-![GitHub Profile Detail](https://github-readme-stats-flax-iota.vercel.app/api?username=glyzinieh&count_private=true&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=glyzinieh&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=glyzinieh&show_icons=true&include_all_commits=true&theme=dark_github)
 
-![GitHub Langs](https://github-readme-stats-flax-iota.vercel.app/api/top-langs/?username=glyzinieh&layout=compact&hide=Jupyter%20Notebook)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=glyzinieh&layout=compact&langs_count=8&theme=dark_github&hide=Jupyter%20Notebook)](https://github-stats-extended.vercel.app/api/top-langs?username=glyzinieh&layout=compact&langs_count=8&theme=dark_github&hide=Jupyter%20Notebook)
